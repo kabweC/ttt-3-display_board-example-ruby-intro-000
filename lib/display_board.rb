@@ -1,8 +1,8 @@
 def display_board
-  print [ "  |   |   " ]
-  puts  [ "-----------" ]
-  print      |   |
-  puts  [ "-----------" ]
-  print [ "  |   |   " ]
-end
+  puts "   |   |   "
+  puts  "-----------"
+  puts "   |   |   "
+  puts  "-----------"
+  puts "   |   |   "
+  end
 display_board
